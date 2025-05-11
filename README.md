@@ -45,4 +45,4 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Result:
 
-     Thus, the Data Visualization using matplot python library for the given datas executed successfully.
+Thus, the Data Visualization using matplot python library for the given datas executed successfully.
